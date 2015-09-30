@@ -1,1 +1,1 @@
-add_lunch_combo slim_armani-userdebug
+add_lunch_combo carbon_armani-userdebug
