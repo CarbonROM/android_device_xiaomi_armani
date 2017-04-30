@@ -1,3 +1,4 @@
+
 # Copyright (C) 2016 The CyanogenMod Project
 # Copyright (C) 2017 The LineageOS Project
 #
@@ -38,3 +39,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=armani
+
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.carbon.maintainer="Aniket Lamba"
