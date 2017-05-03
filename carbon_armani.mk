@@ -41,4 +41,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=armani
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.carbon.maintainer="Aniket Lamba"
+    ro.carbon.maintainer="Aniket"
