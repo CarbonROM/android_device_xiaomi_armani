@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 4C56C166 1503078425 +0530\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_xiaomi_armani\nnonce 1503078431-37A80444B2E2E741360D728A32275DB3A0D8E084\n\n0000000000000000000000000000000000000000 0d7ee56dd531975f33b2865a8dd3999cbe9050d1 refs/for/cr-5.1\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEVM10jVzUx1f+AMxGpiniMUxWwWYFAlmXKBkACgkQpiniMUxW\nwWbdZwf+NKhW11xs+8n9sU8IWyFdz1u0XCFOlhnXNdYePqvGNQsPTR49mIYUX5Ac\nwwxBfXSzFpsk/wGoBJgxde4w/f5LOyhrwVAMGnjfmkKyfUGFiBZRQz/NZQOUyD8b\nN9YlqE6wW9QvcGJxpBXAzoR6wGVXQeOhpg1YxXUa8RBh9GeJmuXzKczUIMpXne29\np9IxSKYX+8FV/IP9aitclo6c3ejKJi/RcHlvJGuVEaF/cWbuY4WJzhTPovIaZBQj\nKEftBIsYhAnN0w6yWQUIUKlFnL7Tu2zSoPn1+5F5Ow15+HvO8N5EPwY72vIbFgKj\nmO8/ayFpnsa87GJBRhush/I8IslLkg\u003d\u003d\n\u003d/jEL\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
