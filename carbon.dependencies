@@ -1,0 +1,20 @@
+[
+  {
+   "remote"     : "carbon",
+   "repository" : "CarbonROM/android_device_qcom_common",
+   "target_path": "device/qcom/common",
+   "revision"   : "cr-6.0"
+  },
+  {
+   "remote"     : "github",
+   "repository" : "hemantbeast/xiaomi_armani_kernel",
+   "target_path": "kernel/xiaomi/armani",
+   "revision"   : "lineage-15.1"
+  },
+  {
+   "remote"     : "github",
+   "repository" : "oreo-armani/proprietary_vendor_xiaomi",
+   "target_path": "vendor/xiaomi",
+   "revision"   : "lineage-15.1"
+  }
+]
